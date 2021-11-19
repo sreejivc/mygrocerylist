@@ -1,0 +1,115 @@
+{
+	"Products": [{
+			"NO": "1",
+			"CATEGORY": "FRUITS",
+			"ITEM": "Bananas",
+			"QUANTITY": "1kg",
+			"RATE": "50 Rs",
+			"DESCRIPTION": "Farm fresh fruits"
+		},
+		{
+			"NO": "2",
+			"CATEGORY": "FRUITS",
+			"ITEM": "Apples",
+			"QUANTITY": "1kg",
+			"RATE": "180 Rs",
+			"DESCRIPTION": "Farm fresh fruits"
+		},
+		{
+			"NO": "3",
+			"CATEGORY": "FROZEN FOODS ",
+			"ITEM": "Fish",
+			"QUANTITY": "2kg",
+			"RATE": "80 Rs",
+			"DESCRIPTION": "Ready to fry"
+		},
+		{
+			"NO": "4",
+			"CATEGORY": "MEAT",
+			"ITEM": "BEEF",
+			"QUANTITY": "1.5kg",
+			"RATE": "500Rs",
+			"DESCRIPTION": "Ready to cook meat"
+		},
+		{
+			"NO": "5",
+			"CATEGORY": "FROZEN FOODS ",
+			"ITEM": "Ice Cream",
+			"QUANTITY": "500ml",
+			"RATE": "110Rs",
+			"DESCRIPTION": "Fresh Icecream without added colors& preservatives"
+		},
+		{
+			"NO": "6",
+			"CATEGORY": "MEAT",
+			"ITEM": "CHICKEN",
+			"QUANTITY": "1.5kg",
+			"RATE": "380Rs",
+			"DESCRIPTION": "farm Fresh meat "
+		},
+		{
+			"NO": "7",
+			"CATEGORY": "VEGETABLES",
+			"ITEM": "Potatoes",
+			"QUANTITY": "2kg",
+			"RATE": "90Rs",
+			"DESCRIPTION": "Organic vegetables"
+		},
+		{
+			"NO": "8",
+			"CATEGORY": "VEGETABLES",
+			"ITEM": "Carrots",
+			"QUANTITY": "1Kg",
+			"RATE": "45Rs",
+			"DESCRIPTION": "Organic vegetables"
+		},
+		{
+			"NO": "9",
+			"CATEGORY": "VEGETABLES",
+			"ITEM": "Tomatoes",
+			"QUANTITY": "1kg",
+			"RATE": "35Rs",
+			"DESCRIPTION": "Organic vegetables"
+		},
+		{
+			"NO": "10",
+			"CATEGORY": "FRUITS",
+			"ITEM": "Watermelon",
+			"QUANTITY": "2kg",
+			"RATE": "90Rs",
+			"DESCRIPTION": "Farm fresh fruits"
+		},
+		{
+			"NO": "11",
+			"CATEGORY": "VEGETABLES",
+			"ITEM": "Onions",
+			"QUANTITY": "3kg",
+			"RATE": "100Rs",
+			"DESCRIPTION": "Organic vegetables"
+		},
+		{
+			"NO": "12",
+			"CATEGORY": "VEGETABLES",
+			"ITEM": "Broccoli",
+			"QUANTITY": "1kg",
+			"RATE": "75Rs",
+			"DESCRIPTION": "Organic vegetables"
+		},
+		{
+			"NO": "13",
+			"CATEGORY": "FRUITS",
+			"ITEM": "Oranges",
+			"QUANTITY": "2kg",
+			"RATE": "120Rs",
+			"DESCRIPTION": "Farm fresh fruits"
+		},
+		{
+			"NO": "14",
+			"CATEGORY": "FRUITS",
+			"ITEM": "Strawberries",
+			"QUANTITY": "1kg",
+			"RATE": "220Rs",
+			"DESCRIPTION": "Farm fresh fruits"
+		}
+	]
+}
